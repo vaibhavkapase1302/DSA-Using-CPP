@@ -1,1 +1,38 @@
 # DSA-Using-CPP
+
+Introduction to Basic Data Types in C++ with Output
+
+```C++
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    // Declare and initialize an integer variable
+    int a = 5;
+    cout << "Value of a is: " << a << endl;
+
+    // Declare and initialize a character variable
+    char ch = 'v';
+    cout << "Value of ch is: " << ch << endl;
+
+    // Declare and initialize a boolean variable
+    bool flag = true;
+    cout << "Value of flag is: " << boolalpha << flag << endl;
+
+    // Declare and initialize a floating-point variable
+    float b = 2.5;
+    cout << "Value of b is: " << b << endl;
+
+    // Declare and initialize a double precision floating-point variable
+    double c = 225555;
+    cout << "Value of c is: " << c << endl;
+
+    // Declare and initialize a long integer variable
+    long d = 224424244;
+    cout << "Value of d is: " << d << endl;
+
+    return 0;
+}
+```
