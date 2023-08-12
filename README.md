@@ -36,3 +36,14 @@ int main()
     return 0;
 }
 ```
+
+Output:
+
+```C++
+value of a is : 5
+value of ch is :v
+value of flag is:1
+value of b is:2.5
+value of c is:225555
+value of d is:224424244
+```
