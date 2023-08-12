@@ -47,3 +47,31 @@ value of b is:2.5
 value of c is:225555
 value of d is:224424244
 ```
+
+
+Exploring the Size of a bool Variable in C++
+
+```C++
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    // Declare and initialize a bool variable
+    bool a = true;  // true or false
+
+    // Display the size (in bytes) of the bool variable
+    cout << "Size of 'a' is: " << sizeof(a) << " bytes" << endl;
+
+    return 0;
+}
+```
+
+Output:
+
+```C++
+1
+```
+
+
