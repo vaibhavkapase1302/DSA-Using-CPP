@@ -2,7 +2,7 @@
 
 
 GPT Prompt:
-<a href="https://chat.openai.com/share/36a36e96-f59d-4d1f-9aaa-43b1540dd688">DSA-Using-C++</a
+<a href="https://chat.openai.com/share/36a36e96-f59d-4d1f-9aaa-43b1540dd688">DSA-Using-C++
 
 Introduction to Basic Data Types in C++ with Output
 
