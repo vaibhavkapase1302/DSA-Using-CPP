@@ -132,7 +132,7 @@ int main() {
   else if (age >= 18) {
     cout << "You are an adult." << endl;
   }
-
+  else{}
   // Return 0 to indicate successful execution
   return 0;
 }
