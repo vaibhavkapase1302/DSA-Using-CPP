@@ -79,4 +79,33 @@ Output:
 1
 ```
 
+Conditionals:
+- if-else
+- if-else-if
 
+```C++
+#include <iostream>
+using namespace std;
+
+int main() {
+  int age; // Declare a variable to store the age
+
+  // Prompt the user to enter their age
+  cout << "Enter the age: ";
+
+  // Read the age from the user's input
+  cin >> age;
+
+  // Check if the age is less than 18
+  if (age < 18) {
+    cout << "You are not an adult." << endl;
+  }
+  // If age is 18 or greater
+  else if (age >= 18) {
+    cout << "You are an adult." << endl;
+  }
+
+  // Return 0 to indicate successful execution
+  return 0;
+}
+```
